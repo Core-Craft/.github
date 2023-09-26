@@ -8,27 +8,20 @@ At Core-Craft, we believe in pushing the boundaries of technology and fostering 
 
 ## Our Repositories
 
-### Repository Name 1
+### Backend
 
-- **Description:** Brief description of the repository's purpose and focus.
+- **Description:** Contains code related to the backend server, API, and DB.
 - **Link:** [Repository Name 1](https://github.com/Core-Craft/Repository-Name-1)
 
-### Repository Name 2
+### WebApp
 
-- **Description:** Brief description of the repository's purpose and focus.
+- **Description:** Contains code related to WebApp.
 - **Link:** [Repository Name 2](https://github.com/Core-Craft/Repository-Name-2)
 
-### Repository Name 3
+### DeviceApp
 
-- **Description:** Brief description of the repository's purpose and focus.
+- **Description:** React Native code for Android and iOS.
 - **Link:** [Repository Name 3](https://github.com/Core-Craft/Repository-Name-3)
-
-...
-
-### Repository Name N
-
-- **Description:** Brief description of the repository's purpose and focus.
-- **Link:** [Repository Name N](https://github.com/Core-Craft/Repository-Name-N)
 
 Explore our repositories to find projects that align with your interests and skills. We encourage contributions and collaboration from the open-source community.
 
@@ -54,4 +47,4 @@ If you have any questions, or suggestions, or want to get in touch with the Core
 
 Thank you for your interest in Core-Craft. We look forward to collaborating with you!
 
-![Core-Craft Logo](core-craft-logo.png)
+![Core-Craft Logo](logo.jpg)
