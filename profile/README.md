@@ -11,17 +11,17 @@ At Core-Craft, we believe in pushing the boundaries of technology and fostering 
 ### Backend
 
 - **Description:** Contains code related to the backend server, API, and DB.
-- **Link:** [Repository Name 1](https://github.com/Core-Craft/Repository-Name-1)
+- **Link:** [Backend](https://github.com/Core-Craft/Repository-Name-1](https://github.com/Core-Craft/backend))
 
 ### WebApp
 
 - **Description:** Contains code related to WebApp.
-- **Link:** [Repository Name 2](https://github.com/Core-Craft/Repository-Name-2)
+- **Link:** [WebApp](https://github.com/Core-Craft/webapp)
 
 ### DeviceApp
 
 - **Description:** React Native code for Android and iOS.
-- **Link:** [Repository Name 3](https://github.com/Core-Craft/Repository-Name-3)
+- **Link:** [DeviceApp](https://github.com/Core-Craft/deviceapp)
 
 Explore our repositories to find projects that align with your interests and skills. We encourage contributions and collaboration from the open-source community.
 
