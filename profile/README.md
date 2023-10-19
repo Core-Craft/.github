@@ -11,7 +11,7 @@ At Core-Craft, we believe in pushing the boundaries of technology and fostering 
 ### Backend
 
 - **Description:** Contains code related to the backend server, API, and DB.
-- **Link:** [Backend](https://github.com/Core-Craft/Repository-Name-1](https://github.com/Core-Craft/backend))
+- **Link:** [Backend](https://github.com/Core-Craft/backend)
 
 ### WebApp
 
